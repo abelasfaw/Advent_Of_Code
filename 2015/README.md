@@ -1,7 +1,7 @@
 
 # Advent of Code 2015 Solutions
 
-This repository contains solutions for the [Advent of Code 2015](https://adventofcode.com/2015) programming challenges. Each puzzle is implemented as a separate script, with its own input and logic.
+This repository contains solutions for the Advent of Code 2015 programming challenges. Each puzzle is implemented as a separate script, with its own input and logic.
 
 ## Structure
 - Each challenge solution is placed in its own file (e.g., `Secret_Entrance.js`).
